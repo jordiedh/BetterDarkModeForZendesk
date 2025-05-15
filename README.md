@@ -11,7 +11,14 @@ Zendesk recently introduced a new dark mode, it looks great but there are a few 
 
 ## Screenshots
 
-placeholder
+Without extension:
+
+![image](https://github.com/user-attachments/assets/c1f93f5d-1ef3-4bbd-a24c-c94ff535d2dc)
+
+With extension:
+
+![image](https://github.com/user-attachments/assets/768378e9-6d3a-45c6-a0ae-460a260c98c2)
+
 
 ## Licence
 
