@@ -1,15 +1,19 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "Better Dark Mode for Zendesk",
-    "version": "1.0",
-    "description": "Fixes issues with Zendesk dark mode.",
+    "version": "1.1",
+    "description": "Fixes colour issues with Zendesk dark mode.",
     "permissions": ["scripting"],
     "host_permissions": [
-        "*://*.zendesk.com/*"
+        "*://*.zendesk.com/*",
+        "*://*.zdusercontent.com/*",
+        "*://*.apps.zdusercontent.com/*"
     ],
     "content_scripts": [{
         "matches": [
-            "*://*.zendesk.com/*"
+            "*://*.zendesk.com/*",
+            "*://*.zdusercontent.com/*",
+            "*://*.apps.zdusercontent.com/*"
         ],
         "js": ["content.js"],
         "run_at": "document_idle",
