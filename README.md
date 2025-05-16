@@ -13,15 +13,15 @@ Zendesk recently introduced a new dark mode, it looks great but there are a few 
 
 ## Screenshots
 
-### Navigation bar & apps
+### Navigation bar
 
 Without extension:
 
-![image](https://github.com/user-attachments/assets/c1f93f5d-1ef3-4bbd-a24c-c94ff535d2dc)
+![image](https://github.com/user-attachments/assets/00969dbb-6852-4c7e-8a8f-3c1801c0bec6)
 
 With extension:
 
-![image](https://github.com/user-attachments/assets/768378e9-6d3a-45c6-a0ae-460a260c98c2)
+![image](https://github.com/user-attachments/assets/19a38411-b5fc-4cde-92b9-ea3406f30065)
 
 ### Email tickets with black text/white backgrounds
 
@@ -36,11 +36,11 @@ With extension:
 ![image](https://github.com/user-attachments/assets/7bd0141d-4cd4-4904-8df3-2f6037abeadc)
 ![image](https://github.com/user-attachments/assets/c71b4fec-dc1f-4d6b-8834-ee951a4dc6b3)
 
-### App Buttons
+### Apps
 
 Without extension:
 
-![image](https://github.com/user-attachments/assets/07bda529-e5ca-4e46-93dd-e16658784d17)
+![image](https://github.com/user-attachments/assets/5e1c8a71-9f6e-4dbd-9279-98c03f5fcd2d)
 
 With extension:
 
