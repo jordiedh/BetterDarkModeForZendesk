@@ -55,7 +55,7 @@ if (window.location.hostname.includes("zdusercontent.com")) {
 // If the text is written from email in black, change the text to white
 
 const commentStyle = document.createElement('style');
-commentStyle.textContent = `.zd-comment * {
+commentStyle.textContent = `.zd-comment *:not(a) {
     color: inherit !important;
     background-color: inherit !important;
 }
